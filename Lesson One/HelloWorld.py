@@ -24,6 +24,8 @@ MonthsTillBirthday = .90011300
 MonthsTillBirthdayDouble = .9001130012012030
 # This is a list
 TodoList = ["Take A Nap", "Eat Dinner", "Play Animal Crossing", "Ignore School"]
+# This is a boolean
+Over18 = False
 
 
 Name = "Hello Olivia!!!"
