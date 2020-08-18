@@ -1,6 +1,6 @@
 # This is what's called a comment. 
 # Python likes to get the job done.
-# I wanna do things quicker than a Java
+# I wanna do things quicker than Java
 # Float (00000000 00000000 00000000 00000000) vs Double. (00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000)
 
 # Bits 0 or 1
