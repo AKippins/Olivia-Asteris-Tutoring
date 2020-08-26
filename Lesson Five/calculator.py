@@ -72,4 +72,10 @@ if __name__ == "__main__":
     
 
 
+# High Level Languages: Javascript, Python
+
+# Low Level Languages: C, C++, C#, Assembeler, Java
+
+# Machine Language
+
 

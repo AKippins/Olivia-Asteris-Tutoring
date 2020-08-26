@@ -1,0 +1,1 @@
+# Write a function which computes the solutions of any quadratic equation of the form ax2 + bx + c = 0. Write a main function which takes the three coefficients from the user and calls the function, outputting the results to the user. Make sure that your function will not try to evaluate any square roots of negative numbers.

@@ -58,6 +58,14 @@
 #         print ("zero")
 #     else: 
 #         print ("even")
+for number in range(0, 6):
+    print(number)
+    if (number % 2 == 1):
+        print ("odd")
+    elif (number == 0):
+        print ("zero")
+    else: 
+        print ("even")
 
 # ASCII is how computers write letters. 
 # This is ASCII 
@@ -90,8 +98,8 @@
 #   F  |  T  |  F
 # 
 
-blue = True
-red = True
+# blue = True
+# red = True
 
 # if (blue):
 #     print("I have the color Blue")
@@ -101,14 +109,14 @@ red = True
 
 # print(" ")
 
-if (red or blue):
-    print("I can still draw")
+# if (red or blue):
+#     print("I can still draw")
 
-if (red):
-    print("I have the color Red")
-if (blue):
-    print("I have the color Blue")
-if (blue and red):
-    print("I can make purple")
-else:
-    print("Awwww Shucks!!!!")
+# if (red):
+#     print("I have the color Red")
+# if (blue):
+#     print("I have the color Blue")
+# if (blue and red):
+#     print("I can make purple")
+# else:
+#     print("Awwww Shucks!!!!")
