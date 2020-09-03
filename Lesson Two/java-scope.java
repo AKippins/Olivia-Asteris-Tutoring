@@ -1,4 +1,4 @@
-class HelloWorld {
+class JavaScope {
     public static void main(String args[]){
         // This is a string. 
         var Name = "Hello Olivia";
