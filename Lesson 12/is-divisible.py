@@ -1,0 +1,1 @@
+# Write a function which decides, given the numbers a and b, if the larger is a multiple of the smaller. Write a main function which takes the two numbers from the user and calls the function, outputting the results to the user. 

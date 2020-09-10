@@ -1,0 +1,1 @@
+# Write a function which determines if a number is prime or composite. Write a main function which takes the number from the user and calls the function, outputting the results to the user.

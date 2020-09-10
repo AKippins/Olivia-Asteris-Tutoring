@@ -1,0 +1,1 @@
+# Write a function which will sum a range of integers starting from 1going up and including a value entered by the user. Write a main function which takes the number entered by the user and calls the function, outputting the result to the user.

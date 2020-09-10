@@ -1,0 +1,1 @@
+# Write a function which will count the number of times any one character appears in a string of characters. Write a main function which takes the character to be counted from the user and calls the function, outputting the result to the user.
